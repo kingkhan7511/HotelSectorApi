@@ -10,7 +10,7 @@ How to Start the Project:
       To run the API using Visual Studio, please use the below steps: 
 
       1) Extract the files from downloaded zip folder
-          Option A: User can clone the project from . 
+          Option A: User can clone the project from https://github.com/kingkhan7511/HotelSectorApi.git. 
           Option B: Double click on /HotelSectorApi/HotelSectorApi.sln 
       2) Once the you open the project wait for while to resolve the packages dependencies automatically or Restore the NuGet Packages using option in project solution from VS.  
       3) Make HotelSectorApi is Set as StartUp Project by right click on HotelSectorApi.  
